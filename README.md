@@ -17,4 +17,5 @@ This project aims to document learnings from data analysis classes.This is to tr
 ## Data cleaning and Preparation
 At the initial phase of data cleaning and preparation, the following actions was performed:
  1. Data loading and inspection
- 2. Handling missing 
+ 2. Handling missing variables
+ 3. Data formatting 
