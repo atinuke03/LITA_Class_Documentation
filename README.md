@@ -37,3 +37,7 @@ This is where some basic lines of codes or queries and some of the DAX expressio
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+
+### Data Visualization
+
+![BAR CHART](https://github.com/user-attachments/assets/27c33ec9-8422-4446-95cd-c213083d552d)
