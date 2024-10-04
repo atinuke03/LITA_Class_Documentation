@@ -3,9 +3,9 @@
 ## Project Title: LITA_Class_Documentation
 
 ## Project Overview
+```
 This project aims to document learnings from data analysis classes.This is to track progress and performance.
 
-```
 ## Tool used
 ```
 - Microsoft Excel [Download here](https://www.microsoft.com) is used for:
