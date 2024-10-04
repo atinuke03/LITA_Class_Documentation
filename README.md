@@ -1,3 +1,3 @@
 # LITA_Project
-## Project Name
+## Project Title: LITA_Class_Documentation
 
