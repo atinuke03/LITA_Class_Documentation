@@ -42,5 +42,6 @@ WHERE CONDITION = TRUE
 
 ![BAR CHART](https://github.com/user-attachments/assets/27c33ec9-8422-4446-95cd-c213083d552d)
 
-:
-computer
+|Heading 1| Heading 2| Heading 3|
+|---------|----------|----------|
+|Table 1| Table 2| Table 3|
