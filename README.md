@@ -1,2 +1,2 @@
-# LITA_Class_Documentation
-# Project Name
+# LITA_Project
+## Project Name
