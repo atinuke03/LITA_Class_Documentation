@@ -5,7 +5,9 @@
 ## Project Overview
 This project aims to document learnings from data analysis classes.This is to track progress and performance.
 
+```
 ## Tool used
+```
 - Microsoft Excel [Download here](https://www.microsoft.com) is used for:
   1. Data cleaning
   2. Analysis
@@ -15,7 +17,23 @@ This project aims to document learnings from data analysis classes.This is to tr
 - Github is used for protfolio building 
 
 ## Data cleaning and Preparation
+```
 At the initial phase of data cleaning and preparation, the following actions was performed:
- 1. Data loading and inspection
- 2. Handling missing variables
- 3. Data formatting 
+   - Data loading and inspection
+   - Handling missing variables
+   - Data cleaning and formatting 
+
+### Exploratory Data Analysis
+```
+EDA involved the exploring of the data to answer some questions about data such as;
+ - What is working?
+ - What is not working?
+ - What we should focus on?
+### Data Analysis
+```
+This is where some basic lines of codes or queries and some of the DAX expressions were used during data analysis
+
+```SQL
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
+```
