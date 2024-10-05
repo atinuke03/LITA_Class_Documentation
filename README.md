@@ -24,7 +24,18 @@ This project aims to document learnings from data analysis classes.This is to tr
 At the initial phase of data cleaning and preparation, the following actions was performed:
    - Data loading and inspection
    - Handling missing variables
-   - Data cleaning and formatting 
+   - Data cleaning and formatting
+
+### Data Entry Fundamentals and Formatting 
+ Basic data entry and shortcuts was performed in excel for efficiency. This includes; 
+  - Data validation: This is used for placing a bound or restrictions over errors input in a cell. The shortcut for data validation is alt AVV
+  - Control Spacebar: This is used to highlight the entire column in a worksheet
+  - Shift Spacebar: This is used to highlight the entire row in a worksheet
+
+### Basic Excel Functions
+  
+ 
+
 
 ### Exploratory Data Analysis
 ```
