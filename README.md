@@ -41,18 +41,18 @@ At the initial phase of data cleaning and preparation, the following actions was
 
 ### Basic Excel Functions
 The excel functions helps to manage conditions. This includes
-  -SUM: used for aggreagte in a column 
-  -AVERAGE: used to acheive the average 
-  -MAXIMUM : used to achieve the highest in a cell
-  -MINIMUM: used to acheive the lowest in a cell
-  -COUNT: used to count columns with numbers. 
-  -COUNTA- used to count colums with text or combination of text and numbers
-  -LARGE- handles different positions. It has two argument (Array and K). Array is a list of numbers used to find the largest within, while K is the position (e.g 3rd or 4th)
-  -SUMIF/SUMIFS: The SUMIF is used for singular condition/criteria while SUMIFS is used for a number of criteria
-  -AVERAGEIF/AVERAGEIFS: The AVERAGEIF is used for singular condition/criteria while AVERAGEIFS is used for a number of criteria
-  -MAXIF/MAXIFS: The MAXIF is used for singular condition/criteria while MAXIFS is used for a number of criteria
-  -MINIF/MINIFS: The MINIF is used for singular condition/criteria while MINIFS is used for a number of criteria
-  -COUNTIF/COUNTIFS
+  1. SUM: used for aggreagte in a column 
+  2. AVERAGE: used to acheive the average 
+  3. MAXIMUM : used to achieve the highest in a cell
+  4. MINIMUM: used to acheive the lowest in a cell
+  5. COUNT: used to count columns with numbers. 
+  6. COUNTA- used to count colums with text or combination of text and numbers
+  7. LARGE- handles different positions. It has two argument (Array and K). Array is a list of numbers used to find the largest within, while K is the position (e.g 3rd or 4th)
+  8. SUMIF/SUMIFS: The SUMIF is used for singular condition/criteria while SUMIFS is used for a number of criteria
+  9. AVERAGEIF/AVERAGEIFS: The AVERAGEIF is used for singular condition/criteria while AVERAGEIFS is used for a number of criteria
+  10. MAXIF/MAXIFS: The MAXIF is used for singular condition/criteria while MAXIFS is used for a number of criteria
+  11. MINIF/MINIFS: The MINIF is used for singular condition/criteria while MINIFS is used for a more than one criterion
+  12. COUNTIF/COUNTIFS: The COUNTIF is used for singular condition/criteria while COUNTIFS is used for a number of criteria
 
 ### Data Analysis
 ```
