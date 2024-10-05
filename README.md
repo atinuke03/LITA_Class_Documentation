@@ -41,18 +41,18 @@ At the initial phase of data cleaning and preparation, the following actions was
 
 ### Basic Excel Functions
 The excel functions helps to manage conditions. This includes
- -SUM: used for aggreagte in a column 
- -AVERAGE: used to acheive the average 
- -MAXIMUM : used to achieve the highest in a cell
- -MINIMUM: used to acheive the lowest in a cell
- -COUNT: used to count columns with numbers. 
- -COUNTA- used to count colums with text or combination of text and numbers
- -LARGE- handles different positions. It has two argument (Array and K). Array is a list of numbers used to find the largest within, while K is the position (e.g 3rd or 4th)
- -SUMIF/SUMIFS: The SUMIF is used for singular condition/criteria while SUMIFS is used for a number of criteria
- -AVERAGEIF/AVERAGEIFS: The AVERAGEIF is used for singular condition/criteria while AVERAGEIFS is used for a number of criteria
- -MAXIF/MAXIFS: The MAXIF is used for singular condition/criteria while MAXIFS is used for a number of criteria
- -MINIF/MINIFS: The MINIF is used for singular condition/criteria while MINIFS is used for a number of criteria
- -COUNTIF/COUNTIFS
+  -SUM: used for aggreagte in a column 
+  -AVERAGE: used to acheive the average 
+  -MAXIMUM : used to achieve the highest in a cell
+  -MINIMUM: used to acheive the lowest in a cell
+  -COUNT: used to count columns with numbers. 
+  -COUNTA- used to count colums with text or combination of text and numbers
+  -LARGE- handles different positions. It has two argument (Array and K). Array is a list of numbers used to find the largest within, while K is the position (e.g 3rd or 4th)
+  -SUMIF/SUMIFS: The SUMIF is used for singular condition/criteria while SUMIFS is used for a number of criteria
+  -AVERAGEIF/AVERAGEIFS: The AVERAGEIF is used for singular condition/criteria while AVERAGEIFS is used for a number of criteria
+  -MAXIF/MAXIFS: The MAXIF is used for singular condition/criteria while MAXIFS is used for a number of criteria
+  -MINIF/MINIFS: The MINIF is used for singular condition/criteria while MINIFS is used for a number of criteria
+  -COUNTIF/COUNTIFS
 
 ### Data Analysis
 ```
