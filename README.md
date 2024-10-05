@@ -17,11 +17,11 @@ This project aims to document learnings from data analysis classes.This is to tr
   3. Data visualization
 
 - Structured Query Language is used for quering of data
-- Github is used for protfolio building
+- Github is used for portfolio building
 
 ### Importance of Data Analysis
 ```
-This involves exploring of the data to answer some questions about the status of a business, to help organizations make informed decisions such as;
+This involves exploring of the data to answer some questions about the status of a business such as;
  - What is working
  - What is not working
  - What we should focus on
@@ -40,7 +40,19 @@ At the initial phase of data cleaning and preparation, the following actions was
   - Shift Spacebar: This is used to highlight the entire row in a worksheet
 
 ### Basic Excel Functions
-  
+The excel functions helps to manage conditions. This includes
+ -SUM: used for aggreagte in a column 
+ -AVERAGE: used to acheive the average 
+ -MAXIMUM : used to achieve the highest in a cell
+ -MINIMUM: used to acheive the lowest in a cell
+ -COUNT: used to count columns with numbers. 
+ -COUNTA- used to count colums with text or combination of text and numbers
+ -LARGE- handles different positions. It has two argument (Array and K). Array is a list of numbers used to find the largest within, while K is the position (e.g 3rd or 4th)
+ -SUMIF/SUMIFS: The SUMIF is used for singular condition/criteria while SUMIFS is used for a number of criteria
+ -AVERAGEIF/AVERAGEIFS: The AVERAGEIF is used for singular condition/criteria while AVERAGEIFS is used for a number of criteria
+ -MAXIF/MAXIFS: The MAXIF is used for singular condition/criteria while MAXIFS is used for a number of criteria
+ -MINIF/MINIFS: The MINIF is used for singular condition/criteria while MINIFS is used for a number of criteria
+ -COUNTIF/COUNTIFS
 
 ### Data Analysis
 ```
