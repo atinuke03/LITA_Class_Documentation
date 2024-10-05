@@ -57,7 +57,7 @@ The excel functions helps to manage conditions. This includes
 ### Text Extraction
 -Data extraction was taught and the following functions was explored:
   1. LEFT: is used for extraction from the left of the original text
-  2. MID: is used for extraction from the nmid of the original text
+  2. MID: is used for extraction from the mid of the original text
   3. RIGHT: is used for extraction from the right of the original text
   4. SEARCH & FIND: are two helper functions used alongside for the extraction
 
