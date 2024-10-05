@@ -17,7 +17,14 @@ This project aims to document learnings from data analysis classes.This is to tr
   3. Data visualization
 
 - Structured Query Language is used for quering of data
-- Github is used for protfolio building 
+- Github is used for protfolio building
+
+### Importance of Data Analysis
+```
+This involves exploring of the data to answer some questions about the status of a business, to help organizations make informed decisions such as;
+ - What is working
+ - What is not working
+ - What we should focus on
 
 ## Data cleaning and Preparation
 ```
@@ -34,15 +41,7 @@ At the initial phase of data cleaning and preparation, the following actions was
 
 ### Basic Excel Functions
   
- 
 
-
-### Exploratory Data Analysis
-```
-EDA involved the exploring of the data to answer some questions about data such as;
- - What is working?
- - What is not working?
- - What we should focus on?
 ### Data Analysis
 ```
 This is where some basic lines of codes or queries and some of the DAX expressions were used during data analysis
