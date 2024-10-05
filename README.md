@@ -54,6 +54,18 @@ The excel functions helps to manage conditions. This includes
   11. MINIF/MINIFS: The MINIF is used for singular condition/criteria while MINIFS is used for a more than one criterion
   12. COUNTIF/COUNTIFS: The COUNTIF is used for singular condition/criteria while COUNTIFS is used for a number of criteria
 
+### Text Extraction
+-Data extraction was taught and the following functions was explored:
+  1. LEFT: is used for extraction from the left of the original text
+  2. MID: is used for extraction from the nmid of the original text
+  3. RIGHT: is used for extraction from the right of the original text
+  4. SEARCH & FIND: are two helper functions used alongside for the extraction
+
+-To manage cases in excel, three functions are used and they include
+  1. LOWER: is used to manage lower cases   
+  2. UPPER: is used to manage upper cases
+  3. PROPER: is used to regularize space in between text  
+
 ### Data Analysis
 ```
 This is where some basic lines of codes or queries and some of the DAX expressions were used during data analysis
