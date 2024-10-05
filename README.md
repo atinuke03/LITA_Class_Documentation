@@ -64,7 +64,8 @@ The excel functions helps to manage conditions. This includes
 -To manage cases in excel, three functions are used and they include
   1. LOWER: is used to manage lower cases   
   2. UPPER: is used to manage upper cases
-  3. PROPER: is used to regularize space in between text  
+  3. PROPER: is used to manage the initial to be capital and the other cases small  letters
+  4. TRIM: is used to eliminate excesses or unnecessary space in between text and words. 
 
 ### Data Analysis
 ```
