@@ -67,7 +67,7 @@ The excel functions helps to manage conditions. This includes
 -To manage cases in excel, three functions are used and they include
   1. LOWER: is used to manage lower cases   
   2. UPPER: is used to manage upper cases
-  3. PROPER: is used to manage the initial to be capital and the other cases small  letters
+  3. PROPER: is used to manage the initial to be capital and the other cases to be small letters
   4. TRIM: is used to eliminate excesses or unnecessary space in between text and words.
 
 -Lookup Functions in excel helps to find specific data within a range or table. The functions in lookup include;
@@ -77,18 +77,28 @@ The excel functions helps to manage conditions. This includes
   4. LOOKUP: Looks up values in a table and returns a value from the same table.
 
 -Pivot Table was also created and customized to summarize, analyze large data sets through sorting, filtering and grouping of data.
+It is a handy tool to analyze data or do a cross-sectional analysis. There are 4 buckets to place each header column inside namely;
+filters, Columns, Rows and Values. The Values bucket can only accept aggregated headers while other headers goes into either rows, columns or filters bucket.  
+   
 
 ### Data Analysis
 ```
+Standard Query Language (SQL) is used for storing and managing data in Relational Data Management System (RDBMS).
 This is where some basic lines of codes or queries and some of the DAX expressions were used during data analysis
 
 ```SQL
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
- 
+
 ```SQL
 SELECT SUM(Salary) AS TOTALSALARY FROM Salary
+```
+
+```
+update Salary
+set salary = 7056999.9994
+where Staffid = 'AB401'
 ```
 
 ### Data Visualization
