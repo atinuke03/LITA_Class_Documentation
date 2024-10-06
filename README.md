@@ -1,5 +1,3 @@
-# LITA_Project
-
 ## Project Title: LITA_Class_Documentation
 
 Project overview
@@ -26,6 +24,7 @@ This involves exploring of the data to answer some questions about the status of
  - What is not working
  - What we should focus on
 
+
 ## Data cleaning and Preparation
 ```
 At the initial phase of data cleaning and preparation, the following actions was performed:
@@ -33,12 +32,14 @@ At the initial phase of data cleaning and preparation, the following actions was
    - Handling missing variables
    - Data cleaning and formatting
 
+
 ### Data Entry Fundamentals and Formatting 
  ```
  Basic data entry and shortcuts was performed in excel for efficiency. This includes; 
   - Data validation: This is used for placing a bound or restrictions over errors input in a cell. The shortcut for data validation is alt AVV
   - Control Spacebar: This is used to highlight the entire column in a worksheet
   - Shift Spacebar: This is used to highlight the entire row in a worksheet
+
 
 ### Basic Excel Functions
 ```
@@ -55,6 +56,7 @@ The excel functions helps to manage conditions. This includes
   10. MAXIF/MAXIFS: The MAXIF is used for singular condition/criteria while MAXIFS is used for a number of criteria
   11. MINIF/MINIFS: The MINIF is used for singular condition/criteria while MINIFS is used for a more than one criterion
   12. COUNTIF/COUNTIFS: The COUNTIF is used for singular condition/criteria while COUNTIFS is used for a number of criteria
+
 
 ### Text Extraction
 ```
@@ -95,7 +97,7 @@ WHERE CONDITION = TRUE
 SELECT SUM(Salary) AS TOTALSALARY FROM Salary
 ```
 
-```
+```SQL
 update Salary
 set salary = 7056999.9994
 where Staffid = 'AB401'
