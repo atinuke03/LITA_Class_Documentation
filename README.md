@@ -65,7 +65,14 @@ The excel functions helps to manage conditions. This includes
   1. LOWER: is used to manage lower cases   
   2. UPPER: is used to manage upper cases
   3. PROPER: is used to manage the initial to be capital and the other cases small  letters
-  4. TRIM: is used to eliminate excesses or unnecessary space in between text and words. 
+  4. TRIM: is used to eliminate excesses or unnecessary space in between text and words.
+
+-Lookup Functions in excel helps to find specific data within a range or table. The functions in lookup include;
+  1. VLOOKUP: Looks up values in a table and return a value from a specific column. It can return an approximate match
+  2. Hlookup: Looks up values in a table and return a value from a specific row. It can return an approximte match
+  3. INDEX/MATCH: Looks up values in a range or table and returns a value from any range. It can  return an approximate match.
+  4. LOOKUP: Looks up values in a table and returns a value from the same table.
+
 
 ### Data Analysis
 ```
