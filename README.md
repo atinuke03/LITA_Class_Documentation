@@ -8,7 +8,6 @@ Project overview
 This project aims to document learnings from data analysis classes.This is to track progress and performance.
 
 ## Tool used
-```
 - Microsoft Excel [Download here](https://www.microsoft.com) is used for:
   1. Data cleaning
   2. Analysis
@@ -18,15 +17,12 @@ This project aims to document learnings from data analysis classes.This is to tr
 - Github is used for portfolio building
 
 ### Importance of Data Analysis
-```
 This involves exploring of the data to answer some questions about the status of a business such as;
  - What is working
  - What is not working
  - What we should focus on
 
-
 ## Data cleaning and Preparation
-```
 At the initial phase of data cleaning and preparation, the following actions was performed:
    - Data loading and inspection
    - Handling missing variables
@@ -34,15 +30,12 @@ At the initial phase of data cleaning and preparation, the following actions was
 
 
 ### Data Entry Fundamentals and Formatting 
- ```
  Basic data entry and shortcuts was performed in excel for efficiency. This includes; 
   - Data validation: This is used for placing a bound or restrictions over errors input in a cell. The shortcut for data validation is alt AVV
   - Control Spacebar: This is used to highlight the entire column in a worksheet
   - Shift Spacebar: This is used to highlight the entire row in a worksheet
 
-
 ### Basic Excel Functions
-```
 The excel functions helps to manage conditions. This includes
   1. SUM: used for aggreagte in a column 
   2. AVERAGE: used to acheive the average 
@@ -57,9 +50,7 @@ The excel functions helps to manage conditions. This includes
   11. MINIF/MINIFS: The MINIF is used for singular condition/criteria while MINIFS is used for a more than one criterion
   12. COUNTIF/COUNTIFS: The COUNTIF is used for singular condition/criteria while COUNTIFS is used for a number of criteria
 
-
 ### Text Extraction
-```
 -Data extraction was taught and the following functions was explored:
   1. LEFT: is used for extraction from the left of the original text
   2. MID: is used for extraction from the mid of the original text
@@ -84,7 +75,6 @@ filters, Columns, Rows and Values. The Values bucket can only accept aggregated 
    
 
 ### Data Analysis
-```
 Standard Query Language (SQL) is used for storing and managing data in Relational Data Management System (RDBMS).
 This is where some basic lines of codes or queries and some of the DAX expressions were used during data analysis
 
