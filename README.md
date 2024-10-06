@@ -7,6 +7,7 @@ Project overview
 ```
 This project aims to document learnings from data analysis classes.This is to track progress and performance.
 
+
 ## Tool used
 ```
 - Microsoft Excel [Download here](https://www.microsoft.com) is used for:
@@ -54,6 +55,7 @@ The excel functions helps to manage conditions. This includes
   10. MAXIF/MAXIFS: The MAXIF is used for singular condition/criteria while MAXIFS is used for a number of criteria
   11. MINIF/MINIFS: The MINIF is used for singular condition/criteria while MINIFS is used for a more than one criterion
   12. COUNTIF/COUNTIFS: The COUNTIF is used for singular condition/criteria while COUNTIFS is used for a number of criteria
+
 
 ### Text Extraction
 ```
