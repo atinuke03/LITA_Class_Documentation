@@ -6,8 +6,7 @@ Project overview
 ## Project Overview
 This project aims to document learnings from data analysis classes.This is to track progress and performance.
 
-
-## Tool used
+### Tool used
 - Microsoft Excel [Download here](https://www.microsoft.com) is used for:
   1. Data cleaning
   2. Analysis
@@ -27,7 +26,6 @@ At the initial phase of data cleaning and preparation, the following actions was
    - Data loading and inspection
    - Handling missing variables
    - Data cleaning and formatting
-
 
 ### Data Entry Fundamentals and Formatting 
 Basic data entry and shortcuts was performed in excel for efficiency. This includes; 
@@ -75,7 +73,7 @@ It is a handy tool to analyze data or do a cross-sectional analysis. There are 4
 filters, Columns, Rows and Values. The Values bucket can only accept aggregated headers while other headers goes into either rows, columns or filters bucket.  
    
 
-## Data Analysis
+### Data Analysis
 ```
 Standard Query Language (SQL) is used for storing and managing data in Relational Data Management System (RDBMS).
 This is where some basic lines of codes or queries and some of the DAX expressions were used during data analysis
