@@ -10,8 +10,15 @@
 
 [Data Entry Fundamentals and Formatting ](#data-entry-fundamentals-and-formatting)
 
+[Basic Excel Functions](#basic-excel-functions)
+
+[Text Extraction](#text-extraction)
 
 [Data Analysis](#data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
 
 ## Project Overview
 This project aims to document learnings from data analysis classes.This is to track progress and performance.
