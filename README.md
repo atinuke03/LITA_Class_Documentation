@@ -1,12 +1,22 @@
 ## Project Title: LITA_Class_Documentation
 
-Project overview
+[Project Overview](#project-overview)
+
+[Tool Used](#tool-used)
+
+[Importance of Data Analysis](#importance-of-data-analysis)
+
+[Data cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Data Entry Fundamentals and Formatting ](#data-entry-fundamentals-and-formatting)
+
+
 [Data Analysis](#data-analysis)
 
 ## Project Overview
 This project aims to document learnings from data analysis classes.This is to track progress and performance.
 
-### Tool used
+### Tool Used
 - Microsoft Excel [Download here](https://www.microsoft.com) is used for:
   1. Data cleaning
   2. Analysis
